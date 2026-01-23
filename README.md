@@ -1,4 +1,7 @@
-## Hi there 👋
+# Mariarosaria Contieri ✨🎀
+Classe 5CLS
+## Presentazione
+Frequento l'ultimo anno del liceo scientifico presso l'istituto Mapelli di Monza. Sono una persona affidabile, responsabile, adoro mettermi a disposizione dei miei amici quando hanno bisogno e sono molto determinata.
 
 <!--
 **mariarosariacontieri/mariarosariacontieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
