@@ -7,7 +7,7 @@ La mia materia preferita in assoluto è *biologia*🌿, sin da piccola ho sempre
 ## Competenze Informatiche
 Per quanto possa aver avuto qualche difficoltá, il mio percorso di studio di informatica👩‍💻 mi ha permesso di sviluppare competenze base in **programmazione** attraverso: 
 - flowgorithm nel biennio
-- c++
+- c
 - phyton
 ## Interessi personali e Obiettivi futuri
 Nel mio tempo libero mi piace molto ascolare la musica🎶, dormire e tenermi aggiornata riguardo il mondo della moda 👠. In futuro spero di riscire a realizzare il mio sogno di diventare un **medico**🩺. Infatti dopo il liceo sono orientata verso lo studio universitario per entrare a medicina. È il mio sogno sin da quando ero bambina: già allora mi piaceva guardare le serie tv a riguardo... un domani vorrei aiutare più persone possibile a guarire, sperando di trovare la cura🫀 a malattie che ad oggi risultano ancora mortali.
