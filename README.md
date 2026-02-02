@@ -1,4 +1,4 @@
-# Mariarosaria Contieri ✨🎀
+# Mariarosaria Contieri ✨🙋‍♀️
 Classe 5CLS
 ## Presentazione
 Frequento l'ultimo anno del liceo scientifico scienze applicate presso l'istituto Mapelli di Monza. Sono una persona affidabile, responsabile, adoro mettermi a disposizione dei miei amici quando hanno bisogno e sono molto determinata.
@@ -10,7 +10,7 @@ Per quanto possa aver avuto qualche difficoltá, il mio percorso di studio di in
 - c++
 - phyton
 ## Interessi personali e Obiettivi futuri
-Nel mio tempo libero mi piace molto ascolare la musica, dormire e tenermi aggiornata riguardo il mondo della moda. In futuro spero di riscire a realizzare il mio sogno di diventare un **medico**🩺. Infatti dopo il liceo sono orientata verso lo studio universitario per entrare a medicina.
+Nel mio tempo libero mi piace molto ascolare la musica🎶, dormire e tenermi aggiornata riguardo il mondo della moda 👠. In futuro spero di riscire a realizzare il mio sogno di diventare un **medico**🩺. Infatti dopo il liceo sono orientata verso lo studio universitario per entrare a medicina. È il mio sogno sin da quando ero bambina: già allora mi piaceva guardare le serie tv a riguardo... un domani vorrei aiutare più persone possibile a guarire, sperando di trovare la cura🫀 a malattie che ad oggi risultano ancora mortali.
 
 
 <!--
